@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "~2018.11.0",
+    "spryker-feature/product": "~2018.12.0",
     "spryker-shop/product-group-widget": "^1.2.0",
     "spryker/product-group": "^1.2.1",
     "spryker/product-group-collector": "^1.0.1",
