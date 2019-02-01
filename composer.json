@@ -10,5 +10,10 @@
     "spryker-shop/product-group-widget": "^1.2.0",
     "spryker/product-group": "^1.2.2",
     "spryker/product-group-storage": "^1.1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
   }
 }
