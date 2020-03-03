@@ -15,5 +15,8 @@
     "branch-alias": {
       "dev-master": "202001.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
