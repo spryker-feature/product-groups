@@ -1,22 +1,22 @@
 {
-  "name": "spryker-feature/product-groups",
-  "description": "Product Groups [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/product-group-widget": "^1.7.0",
-    "spryker/product-group": "^1.3.0",
-    "spryker/product-group-storage": "^1.3.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/product-groups",
+    "description": "Product Groups [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/product-group-widget": "^1.7.0",
+        "spryker/product-group": "^1.3.0",
+        "spryker/product-group-storage": "^1.3.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
