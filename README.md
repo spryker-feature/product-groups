@@ -15,4 +15,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [ProductGroupCollector ^1.0.1](https://github.com/spryker/product-group-collector) (Collector)
-- [Shop.ProductGroupWidgetExtension ^1.0.0](https://github.com/spryker-shop/product-group-widget-extension) (Extension)
+- [Shop.ProductGroupWidgetExtension ^1.1.0](https://github.com/spryker-shop/product-group-widget-extension) (Extension)
